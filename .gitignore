@@ -1,0 +1,26 @@
+﻿# Python caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environments
+env/
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs/Editors
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Streamlit local config / secrets (optional)
+.streamlit/
+
+# Others
+*.log
